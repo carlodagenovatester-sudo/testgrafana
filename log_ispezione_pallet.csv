@@ -20,3 +20,6 @@ Timestamp_Ispezione;ID_Pallet;Esito;Tipologia_Difetto;Azione_Richiesta;Data_Limi
 03/09/2026 12:32;PLT-20260905-1018;Conforme;Nessuno;Nessuna;;98.6%;
 03/09/2026 12:49;PLT-20260905-1019;Conforme;Nessuno;Nessuna;;97.4%;
 03/09/2026 13:37;PLT-20260903-1020;Non Conforme;Mancanza film termoretraibile;Aggiungere film;03/09/2026 14:37;86.3%;A1CV001
+03/09/2026 13:51;PLT-20260903-1021;Non Conforme;Mancanza film termoretraibile;Aggiungere film;03/09/2026 14:37;86.3%;A1CV001
+03/09/2026 13:53;PLT-20260903-1022;Non Conforme;Mancanza film termoretraibile;Aggiungere film;03/09/2026 14:37;86.3%;A1CV001
+03/09/2026 13:54;PLT-20260905-1023;Conforme;Nessuno;Nessuna;;97.8%;
