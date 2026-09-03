@@ -1,25 +1,25 @@
-Timestamp_Ispezione;ID_Pallet;Esito;Tipologia_Difetto;Azione_Richiesta;Data_Limite_Rielaborazione;Confidenza_AI;Microservizio_Origine
-03/09/2026 08:07;PLT-20260903-1000;Non Conforme;Scatola danneggiata;Sostituire collo;07/09/2026 12:07;88.7%;A1CV001
-03/09/2026 08:19;PLT-20260903-1001;Conforme;Nessuno;Nessuna;;96.2%;
-03/09/2026 08:35;PLT-20260903-1002;Non Conforme;Allineamento errato;Riallineare e pallettizzare;06/09/2026 12:35;76.7%;A1CV001
-03/09/2026 08:52;PLT-20260903-1003;Conforme;Nessuno;Nessuna;;97.7%;
-03/09/2026 09:03;PLT-20260903-1004;Conforme;Nessuno;Nessuna;;96.8%;
-03/09/2026 09:20;PLT-20260903-1005;Conforme;Nessuno;Nessuna;;95.5%;
-03/09/2026 09:35;PLT-20260903-1006;Conforme;Nessuno;Nessuna;;97.0%;
-03/09/2026 09:52;PLT-20260903-1007;Conforme;Nessuno;Nessuna;;95.1%;
-03/09/2026 10:02;PLT-20260903-1008;Conforme;Nessuno;Nessuna;;98.6%;
-03/09/2026 10:18;PLT-20260903-1009;Conforme;Nessuno;Nessuna;;96.0%;
-03/09/2026 10:37;PLT-20260903-1010;Non Conforme;Mancanza film termoretraibile;Aggiungere film;03/09/2026 14:37;86.3%;A1CV001
-03/09/2026 10:48;PLT-20260903-1011;Conforme;Nessuno;Nessuna;;96.2%;
-03/09/2026 11:03;PLT-20260903-1012;Conforme;Nessuno;Nessuna;;97.1%;
-03/09/2026 11:20;PLT-20260903-1013;Conforme;Nessuno;Nessuna;;97.2%;
-03/09/2026 11:34;PLT-20260903-1014;Conforme;Nessuno;Nessuna;;95.7%;
-03/09/2026 11:48;PLT-20260903-1015;Non Conforme;Allineamento errato;Riallineare e pallettizzare;09/09/2026 15:48;91.5%;A2CV002
-03/09/2026 12:06;PLT-20260903-1016;Conforme;Nessuno;Nessuna;;98.1%;
-03/09/2026 12:20;PLT-20260903-1017;Non Conforme;Scatola danneggiata;Sostituire collo;09/09/2026 16:20;91.0%;A2CV002
-03/09/2026 12:32;PLT-20260905-1018;Conforme;Nessuno;Nessuna;;98.6%;
-03/09/2026 12:49;PLT-20260905-1019;Conforme;Nessuno;Nessuna;;97.4%;
-03/09/2026 13:37;PLT-20260903-1020;Non Conforme;Mancanza film termoretraibile;Aggiungere film;03/09/2026 14:37;86.3%;A1CV001
-03/09/2026 13:51;PLT-20260903-1021;Non Conforme;Mancanza film termoretraibile;Aggiungere film;03/09/2026 14:37;86.3%;A1CV001
-03/09/2026 13:53;PLT-20260903-1022;Non Conforme;Mancanza film termoretraibile;Aggiungere film;03/09/2026 14:37;86.3%;A1CV001
-03/09/2026 13:54;PLT-20260905-1023;Conforme;Nessuno;Nessuna;;97.8%;
+Timestamp_Ispezione;Ora_Ispezione;ID_Pallet;Esito;Tipologia_Difetto;Azione_Richiesta;Data_Limite_Rielaborazione;Confidenza_AI;Microservizio_Origine
+03/09/2026 08:07;08;PLT-20260903-1000;Non Conforme;Scatola danneggiata;Sostituire collo;07/09/2026 12:07;88.7%;A1CV001
+03/09/2026 08:19;08;PLT-20260903-1001;Conforme;Nessuno;Nessuna;;96.2%;
+03/09/2026 08:35;08;PLT-20260903-1002;Non Conforme;Allineamento errato;Riallineare e pallettizzare;06/09/2026 12:35;76.7%;A1CV001
+03/09/2026 08:52;08;PLT-20260903-1003;Conforme;Nessuno;Nessuna;;97.7%;
+03/09/2026 09:03;09;PLT-20260903-1004;Conforme;Nessuno;Nessuna;;96.8%;
+03/09/2026 09:20;09;PLT-20260903-1005;Conforme;Nessuno;Nessuna;;95.5%;
+03/09/2026 09:35;09;PLT-20260903-1006;Conforme;Nessuno;Nessuna;;97.0%;
+03/09/2026 09:52;09;PLT-20260903-1007;Conforme;Nessuno;Nessuna;;95.1%;
+03/09/2026 10:02;10;PLT-20260903-1008;Conforme;Nessuno;Nessuna;;98.6%;
+03/09/2026 10:18;10;PLT-20260903-1009;Conforme;Nessuno;Nessuna;;96.0%;
+03/09/2026 10:37;10;PLT-20260903-1010;Non Conforme;Mancanza film termoretraibile;Aggiungere film;03/09/2026 14:37;86.3%;A1CV001
+03/09/2026 10:48;10;PLT-20260903-1011;Conforme;Nessuno;Nessuna;;96.2%;
+03/09/2026 11:03;11;PLT-20260903-1012;Conforme;Nessuno;Nessuna;;97.1%;
+03/09/2026 11:20;11;PLT-20260903-1013;Conforme;Nessuno;Nessuna;;97.2%;
+03/09/2026 11:34;11;PLT-20260903-1014;Conforme;Nessuno;Nessuna;;95.7%;
+03/09/2026 11:48;11;PLT-20260903-1015;Non Conforme;Allineamento errato;Riallineare e pallettizzare;09/09/2026 15:48;91.5%;A2CV002
+03/09/2026 12:06;12;PLT-20260903-1016;Conforme;Nessuno;Nessuna;;98.1%;
+03/09/2026 12:20;12;PLT-20260903-1017;Non Conforme;Scatola danneggiata;Sostituire collo;09/09/2026 16:20;91.0%;A2CV002
+03/09/2026 12:32;12;PLT-20260905-1018;Conforme;Nessuno;Nessuna;;98.6%;
+03/09/2026 12:49;12;PLT-20260905-1019;Conforme;Nessuno;Nessuna;;97.4%;
+03/09/2026 13:37;13;PLT-20260903-1020;Non Conforme;Mancanza film termoretraibile;Aggiungere film;03/09/2026 14:37;86.3%;A1CV001
+03/09/2026 13:51;13;PLT-20260903-1021;Non Conforme;Mancanza film termoretraibile;Aggiungere film;03/09/2026 14:37;86.3%;A1CV001
+03/09/2026 13:53;13;PLT-20260903-1022;Non Conforme;Mancanza film termoretraibile;Aggiungere film;03/09/2026 14:37;86.3%;A1CV001
+03/09/2026 13:54;13;PLT-20260905-1023;Conforme;Nessuno;Nessuna;;97.8%;
