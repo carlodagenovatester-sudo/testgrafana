@@ -1,0 +1,4 @@
+analysis_timestamp,analysis_date,analysis_hour,pallet_id,status,defect_class,confidence,photo_dx,photo_sx,detected_defects
+2026-09-04T09:10:44.270308,2026-09-04,9,pallet001,KO,DA_VERIFICARE,0,immagini\pallet001_dx.png,immagini\pallet001_sx.png,"La merce è impilata in modo caotico e instabile, con scatole di dimensioni diverse messe alla rinfusa. Il cellophan è avvolto in modo allentato e non contiene il carico, e alcune scatole appaiono deformate."
+2026-09-04T09:10:50.089275,2026-09-04,9,pallet002,OK,OK,0,immagini\pallet002_dx.png,immagini\pallet002_sx.png,Nessun difetto rilevato
+2026-09-04T09:10:54.701580,2026-09-04,9,pallet003,OK,OK,0,immagini\pallet003_dx.png,immagini\pallet003_sx.png,Nessun difetto rilevato
